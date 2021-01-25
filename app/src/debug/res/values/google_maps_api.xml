@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Antes de ejecutar su aplicación, necesita una clave API de Google Maps.
+
+    Para obtener uno, siga este enlace, siga las instrucciones y presione "Crear" al final:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9E:3A:8E:C7:14:5F:AA:3E:27:AB:BC:50:B8:D4:4C:E1:5A:A5:9E:50%3Bpe.edu.tecsup.mapas
+
+    También puede agregar sus credenciales a una clave existente, utilizando estos valores:
+
+    Nombre del paquete:
+    pe.edu.tecsup.mapas
+
+    Huella digital del certificado SHA-1:
+    9E:3A:8E:C7:14:5F:AA:3E:27:AB:BC:50:B8:D4:4C:E1:5A:A5:9E:50
+
+    Alternativamente, siga las instrucciones aquí:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Una vez que tenga su clave (comienza con "AIza"), reemplace "google_maps_key"
+    cadena en este archivo.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAYvWZSvzEtG8SB9mIZI3OhbAH4k9rH2l4</string>
+</resources>
